@@ -1,9 +1,10 @@
-# send_stickers_example
+# Flutter example of sending stickers like in Zenly app
 
 Zenly like stickers animations. Gesture detector swiping stickers pages and longpressing on stickers table.
 
 ## Getting Started
 
-Video example:
-![Demo Animation](./gifExample.gif)
+Two themes:
+![photo](./light_theme.png)
+
 
