@@ -10,7 +10,7 @@ Zenly like stickers animations. Gesture detector swiping stickers pages and long
 </div>
 
 <div align="center">
-  <img src="./gifExample.gif" alt="Demo" width="400" style="border-radius: 12px; margin-top: 20px;">
+  <img src="./gifExample.mp4" alt="Demo" width="400" style="border-radius: 12px; margin-top: 20px;">
 </div>
 
 
