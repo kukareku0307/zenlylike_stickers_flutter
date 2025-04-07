@@ -5,5 +5,5 @@ Zenly like stickers animations. Gesture detector swiping stickers pages and long
 ## Getting Started
 
 Video example:
-[Watch the demo video](./video_example.mp4
+[Watch the demo video](./video_example.mp4)
 
