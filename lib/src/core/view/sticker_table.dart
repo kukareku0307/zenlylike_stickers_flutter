@@ -41,7 +41,6 @@ class _StickerTableState extends State<StickerTable> {
       ..onLongPressEnd = (details) {
         stopSendingStickers();
       };
-
     super.initState();
   }
 
