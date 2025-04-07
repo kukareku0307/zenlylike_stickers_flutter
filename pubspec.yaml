@@ -1,0 +1,50 @@
+name: send_stickers_example
+description: "A new Flutter project."
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Enable generation of localized Strings from arb files.
+  generate: true
+
+  assets:
+    # Add assets from the images directory to the application.
+    - assets/images/map.jpg
+    - assets/stickers/kiss.png
+    - assets/stickers/love.png
+    - assets/stickers/rock.png
+    - assets/stickers/fire.png
+    - assets/stickers/sos.png
+    - assets/stickers/prog.png
+    - assets/stickers/mew.png
+    - assets/stickers/cool.png
+    - assets/stickers/angry.png
+    - assets/stickers/hmm.png
+    - assets/stickers/pet.png
+    - assets/stickers/burger.png
+    - assets/stickers/fight.png
+    - assets/stickers/gym.png
+    - assets/stickers/wow.png
+    - assets/stickers/peach.png
+    - assets/stickers/lucky.png
+    - assets/stickers/music.png
