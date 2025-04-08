@@ -15,3 +15,6 @@ Zenly like stickers animations. Gesture detector swiping stickers pages and long
   <img src="./dark_theme.png" alt="Animation" width="200">
 </div>
 
+### Copyright
+stickers: https://www.behance.net/gallery/153407223/Zenly-Emojis
+
